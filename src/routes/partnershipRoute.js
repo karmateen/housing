@@ -7,3 +7,4 @@ router.post('/upload', partnershipController.uploadDocument);
 router.post('/verify', partnershipController.verifyPartnership);
 
 module.exports = router;
+
